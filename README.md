@@ -1,4 +1,4 @@
-![IMAGEDEPRESENTATION](/src/public/assets/images/Presentation-image-of-the-fil-rouge-topdoc-project.png)
+![IMAGEDEPRESENTATION](src/public/assets/images/Presentation-image-of-the-fil-rouge-topdoc-project.png)
 
 ## Fil Rouge Topdoc project (Backend part)
 
